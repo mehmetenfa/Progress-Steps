@@ -87,7 +87,7 @@ body {
 }
 
 .btn:active {
-    transform: scale(98%);
+    transform: scale(96%);
 }
 
 .btn:focus {
